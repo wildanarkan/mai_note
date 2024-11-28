@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030021417418",
+    "project_id": "mai-note",
+    "storage_bucket": "mai-note.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030021417418:android:16258aebf4c50e6bc1a733",
+        "android_client_info": {
+          "package_name": "com.mainote.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc57d7rTruHqf_eB8PrxaqzgcKDKHK7SI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
